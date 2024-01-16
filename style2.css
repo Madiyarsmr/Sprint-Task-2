@@ -1,0 +1,210 @@
+body{
+    display: flex;
+    background: #D3D3D3;
+    font-family: Arial;
+    margin: 0px;
+    border: 0px;
+    flex-wrap: nowrap;
+}
+a{
+    text-decoration: none;
+    color: darkslateblue;;
+}
+
+.Fdev{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: white;
+    margin: 55px 20px 10px;
+    width: 550px;
+    height: 690px;
+    border-radius: 5px;
+}
+.Fdev1{
+    display: flex;
+    width: 550px;
+}
+.Fdev11{
+    margin: 12px 5px 0px 12px;
+    font-size: 0.9em;
+}
+.Fdev12{
+    margin: 12px 25px 0px 0px;
+    font-size: 0.9em;
+    color: gray;
+}
+.Fdev13{
+    margin: 12px 5px 0px 0px;
+    font-size: 0.9em;
+}
+.Fdev14{
+    margin: 12px 5px 0px 0px;
+    font-size: 0.9em;
+    color: gray;
+}
+.Fdev15{
+    margin: 10px 5px 0px 275px;
+    font-size: 0.9em;
+}
+.Fdev15 button{
+    background-color: #4277a5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+.inp{
+    border: none;
+    width: 500px;
+    height: 20px;
+}
+.people{
+    display: flex;
+}
+.p1{
+    margin: 0px 10px;
+}
+.p2{
+    margin: 7px 10px;
+}
+.tl1{
+    color: #4277a5;
+    font-weight: bold;
+    margin: 0px 0px 5px;
+}
+.tl2{
+    color: gray;
+    margin: 0px 0px 5px;
+}
+.tl3{
+    color: #4277a5;
+    margin: 0px 0px 5px;
+}
+
+
+
+
+
+
+
+
+
+.Info3 {
+    margin: 20px 0px 20px;
+    width: 550px;
+    background-color: white;
+    height: 670px;
+    border-radius: 5px;
+}
+.man{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.man img{
+    border-radius: 25px;
+    margin: 15px 0px 0px 15px;
+}
+.t11{
+    font-size: 1.17em;
+    margin: 20px 10px 2px;
+}
+.t12{
+    font-size: 0.7em;
+    margin: 0px 10px;
+    color: gray;
+}
+.im{
+    margin: 15px;
+}
+
+
+
+
+
+
+
+.Info2{
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0px 20px;
+    width: 550px;
+    background-color: white;
+    height: 200px;
+    border-radius: 5px;
+}
+.Info2 p{
+    margin: 10px;
+    height: 15px;
+}
+.Info2 img{
+    margin: 10px 0px 0px 10px;
+}
+.Info2 table{
+    width: 290px;
+}
+.pas1{
+    margin: 15px 5px;
+    width: 525px;
+}
+.pas1 th{
+    color: darkblue;
+    font-weight: normal;
+}
+.pas1 td{
+    color: gray;
+    text-align: center;
+}
+.pas{
+    margin: 5px 10px;
+    width: 525px;
+}
+.wq{
+    font-weight: normal;
+    font-size: 0.8em;
+    color: gray;
+}
+.wq1{
+    font-weight: normal;
+    font-size: 0.8em;
+    color: darkblue;
+}
+
+.Info{
+    height: 1400px;
+}
+.Info1{
+    margin: 55px 0px 20px;
+    width: 550px;
+    background-color: white;
+    height: 270px;
+    border-radius: 5px;
+}
+.NavBar{
+    display: flex;
+    margin: 55px 30px;
+    width: 25%;
+    min-width: 100px;
+    max-width: 225px;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+}
+.NavBar tr{
+    display: flex;
+    margin: 13px;
+    color: darkslateblue;
+}
+.HeadLine{
+    position: fixed;
+    display: flex;
+    margin: -22px 0px;
+    background-color: #4277a5;
+    color: white;
+    width: 100%;
+    height: 60px
+}
+.HeadLine h2{
+    margin: 25px 100px 0px 200px;
+}

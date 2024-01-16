@@ -1,0 +1,30 @@
+.navbar{
+	background-color: #094574; 
+	color: white; 
+	display: flex;
+	align-items: center;
+}
+
+.logo{
+	padding-left: 20px;
+}
+
+body{
+	margin: 0px;
+	background-color: #F3F3F3;
+}
+
+.search{
+	background-color: lightgray; 
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.profile{
+	color: gray;
+}
+.qwe{
+	align-items: center;
+
+}
